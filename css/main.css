@@ -21,7 +21,7 @@ header{
 }
 body > header > nav{
     float:right;
-    width: 50%;
+    width: 40%;
 }
 nav > a{
     font-size: 14px;
